@@ -1,0 +1,10 @@
+azure-functions
+langchain==0.0.315
+python-dotenv==1.0.0
+pandas==2.0.3
+numpy==1.26.1
+openai==0.27.10
+tiktoken==0.5.1
+faiss-cpu==1.7.4
+streamlit
+PyPDF2
