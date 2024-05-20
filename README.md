@@ -37,4 +37,4 @@ Además, plantear cuáles serían los pasos necesarios para entrenar un modelo d
 ## Enlaces a las carpetas de soluciones
 
 - [Solución del Apartado 1](Apartado%201)
-- [Solución del Apartado 2](Apartado%202)
+- [Solución del Apartado 3](Apartado%203)
